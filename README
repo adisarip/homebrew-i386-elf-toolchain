@@ -1,7 +1,7 @@
 
 Execute the following commands to install the i386-elf-toolchain necessary to work on the PintOS project.
 
-brew tap pintos/homebrew-i386-elf-toolchain
+brew tap adisarip/homebrew-i386-elf-toolchain
 brew install i386-elf-binutils i386-elf-gcc i386-elf-gdb
 
 I have made the brew install scripts to pick the latest versions.
